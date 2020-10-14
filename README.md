@@ -1,3 +1,3 @@
 # hello_world
 just another repository
-Je suis thibaud planqueel, étudiant a l'IATD school
+Je suis thibaud planqueel, étudiant à l'IATD school
